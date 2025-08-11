@@ -1,5 +1,4 @@
-- ✨ Hi, I’m @angghee
+- ✨ Hi, I’m Angel
 - ✨ I’m interested in all aspects of comp sci, but specifically cyber security
 - ✨ I’m currently learning about the history of machiene learning
 - ✨ Pronouns: she/her
-- ✨ Fun fact: I'm an avid reader of mythological and fantasy fiction 🕮
