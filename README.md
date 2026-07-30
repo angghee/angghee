@@ -5,6 +5,7 @@
 
 ## Background
 
+- **Enterprise Security WEX** - Currently at Arm, red teaming presentations, phishing investigations 
 - **Arkwright Engineering Scholar** — national engineering scholarship, ~450 scholars UK-wide
 - **Alan Turing Institute** — built an Arduino/C++ embedded safe-cracking challenge; presented LLM security research to academics and industry engineers
 - **Economit Ltd** — assessed client systems against ISO 27001, NIST CSF 2.0, and DORA frameworks
