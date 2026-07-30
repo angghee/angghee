@@ -1,6 +1,6 @@
 #  Hi, I’m Angel, welcome to my digital drive!  `^-^`
 - I build programs to test the limits of systems and security
-- Working through 150+ algorithmic problems **[NeetCode Submissions.](https://github.com/angghee/neetcode-submissions)** Organised by topic — arrays, trees, graphs, dynamic programming, to sharpen my algorithmic skills Updated regularly.`Python` `Algorithms` `Data Structures`
+- Working through 150+ algorithmic problems **[NeetCode Submissions.](https://github.com/angghee/neetcode-submissions)** Organised by topic — arrays, trees, graphs, dynamic programming, to sharpen my algorithmic skills. Updated regularly.`Python` `Algorithms` `Data Structures`
 
 
 ## Background
