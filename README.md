@@ -1,3 +1,3 @@
 - ✨ Hi, I’m Angel
 - ✨ A Cyber Security Enthusiast with a passion for learning new programming languages
-- ✨ Pronouns: she/her
+- ✨ Currently looking for Security Experience
