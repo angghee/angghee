@@ -1,4 +1,3 @@
 - ✨ Hi, I’m Angel
-- ✨ I’m interested in all aspects of comp sci, but specifically cyber security
-- ✨ I’m currently learning about the history of machiene learning
+- ✨ A Cyber Security Enthusiast with a passion for learning new programming languages
 - ✨ Pronouns: she/her
